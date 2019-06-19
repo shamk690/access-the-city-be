@@ -12,6 +12,9 @@ flask = "*"
 python-dotenv = "*"
 sqlalchemy = "*"
 flask-sqlalchemy = "*"
+flask-migrate = "*"
+psycopg2 = "*"
+flask-api = "*"
 
 [requires]
 python_version = "3.6"
